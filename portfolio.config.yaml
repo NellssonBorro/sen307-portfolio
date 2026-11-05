@@ -12,15 +12,23 @@
 # ║                                                                      ║
 # ║  Change it to "portfolio" once you have filled in your details.      ║
 # ╚══════════════════════════════════════════════════════════════════════╝
-siteMode: "landing"   # ← CHANGE THIS to "portfolio"
-siteUrl:  "https://yourusername.github.io"  # ← Your GitHub Pages URL (used for RSS & canonical links)
-showPoweredBy: false  # Set to true to show a small "Made with GitVitae" badge in your footer (helps others discover GitVitae)
+siteMode: "portfolio"   # ← CHANGE THIS to "portfolio"
+siteUrl:  "https://nellssonborro.github.io"  # ← Your GitHub Pages URL (used for RSS & canonical links)
+showPoweredBy: true  # Set to true to show a small "Made with GitVitae" badge in your footer (helps others discover GitVitae)
 
 # ── Identity ───────────────────────────────────────────── (required) ──
-name: "Git Vitae"              # Your name — shown in the header and used as a fallback in the avatar
-title: "Portfolio-Resume Engineer"
-tagline: "I build free portfolios and resumes for everyone."
-email: "git-vitae@proton.me"
+name: "Nelson Boro"
+title: "UI/UX Design Lecturer"
+email: "boronelson13@gmail.com"
+openToWork: true
+about: |
+  I am a software engineering lecturer at Margaret Lawrence University teaching UI/UX design and product management.
+  This portfolio documents my 13-week journey through SEN 307.
+social:
+  github: "https://github.com/nellssonborro
+  
+tagline: "I computer science and software engineering courses."
+
 phone: ""                    # Optional — e.g. "+1 (555) 000-1234". Shown in contact section and resume.
 location: "San Francisco, CA"
 avatarUrl: "https://api.dicebear.com/9.x/fun-emoji/svg?seed=Alex&mouth[]=wideSmile&radius=12"  # Demo avatar — replace with your own photo URL (see instructions below)
